@@ -17,12 +17,12 @@
          <div class="card-item">
            <div class="categories" >
              <a href="{{ .URL }}"><h3> <i class="iconfont icon-folder" style="padding-right: 3px"></i> {{ $term | humanize}}  </h3> </a>
-               {{ range first 5 $pages }}   
+               {{ range first .Site.Params.category_card_rows $pages }}
                 <article class="archive-item">
                 <a href="{{ .URL }}" class="archive-item-link">{{ .Title }}</a>
                 </article>
               {{ end }}
-               {{ if gt (len $pages) 5 }}
+               {{ if gt (len $pages) .Site.Params.category_card_rows }}
                   <span class="more-post">
                     <a href="{{ .Permalink }}" class="more-post-link">More  >></a>
                </span> 
@@ -31,8 +31,10 @@
         </div>
     {{ end }}
 {{ end }}
-</div> <!-- //categories-card -->
- <!-- Tag cloud Page -->
+</div>
+<!-- //categories-card -->
+
+<!-- Tag cloud Page -->
 {{ else if and $.Site.Taxonomies.tags (eq $termName "tags") }}
      <div class="tag-cloud-tags">
           {{ range $.Site.Taxonomies.tags.ByCount }}
