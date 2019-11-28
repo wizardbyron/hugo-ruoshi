@@ -1,0 +1,205 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "109744",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "129117",
+      "name": "pinterest",
+      "font_class": "pinterest",
+      "unicode": "e82d",
+      "unicode_decimal": 59437
+    },
+    {
+      "icon_id": "431779",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "499005",
+      "name": "mail_01",
+      "font_class": "mail01",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "704799",
+      "name": "telegram",
+      "font_class": "telegram",
+      "unicode": "eaf9",
+      "unicode_decimal": 60153
+    },
+    {
+      "icon_id": "715309",
+      "name": "xihuan",
+      "font_class": "xihuan",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "755537",
+      "name": "light",
+      "font_class": "light",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "866457",
+      "name": "Facebook",
+      "font_class": "mianshulogo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "870150",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "973203",
+      "name": "xihuan1",
+      "font_class": "xihuan1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "1049682",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "1393804",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "1445493",
+      "name": "tumblr",
+      "font_class": "tumblr",
+      "unicode": "e8ff",
+      "unicode_decimal": 59647
+    },
+    {
+      "icon_id": "1567564",
+      "name": "mail",
+      "font_class": "mail",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "1802969",
+      "name": "light",
+      "font_class": "light1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3876409",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "3876431",
+      "name": "linkedin",
+      "font_class": "linkedin",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "4113567",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "4114414",
+      "name": "tag",
+      "font_class": "tag",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "4937003",
+      "name": "medium-circle-fill",
+      "font_class": "medium-circle-fill",
+      "unicode": "e887",
+      "unicode_decimal": 59527
+    },
+    {
+      "icon_id": "5634665",
+      "name": "flickr",
+      "font_class": "flickr",
+      "unicode": "f1a4",
+      "unicode_decimal": 61860
+    },
+    {
+      "icon_id": "5634723",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "f1d3",
+      "unicode_decimal": 61907
+    },
+    {
+      "icon_id": "5806754",
+      "name": "1 Notebook",
+      "font_class": "Notebook",
+      "unicode": "e894",
+      "unicode_decimal": 59540
+    },
+    {
+      "icon_id": "6308112",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "7685068",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "7685131",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "10746983",
+      "name": "dribbble",
+      "font_class": "dribbble",
+      "unicode": "e51a",
+      "unicode_decimal": 58650
+    },
+    {
+      "icon_id": "11349144",
+      "name": "love",
+      "font_class": "love",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    }
+  ]
+}
